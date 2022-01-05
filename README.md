@@ -1,2 +1,3 @@
-# MonsterSlayer-VueJSGame
-Simple Game built with vue.js ( Without CLI )
+<p align="center">
+  <img src="preview.png">
+</p>
